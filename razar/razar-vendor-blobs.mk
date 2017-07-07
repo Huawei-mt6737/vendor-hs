@@ -44,7 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/hs/razar/proprietary/bin/akmd8975:system/bin/akmd8975 \
     vendor/hs/razar/proprietary/bin/6620_launcher:system/bin/6620_launcher \
     vendor/hs/razar/proprietary/bin/ami304d:system/bin/ami304d \
-    vendor/hs/razar/proprietary/bin/wifi2agps:system/bin/wifi2agps \
     vendor/hs/razar/proprietary/bin/memsicd:system/bin/memsicd \
     vendor/hs/razar/proprietary/bin/ccci_fsd:system/bin/ccci_fsd \
     vendor/hs/razar/proprietary/bin/s62xd:system/bin/s62xd \
