@@ -144,9 +144,6 @@ PRODUCT_COPY_FILES += \
     vendor/hs/razar/proprietary/lib64/libaudiocomponentengine.so:system/lib64/libaudiocomponentengine.so \
     vendor/hs/razar/proprietary/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/hs/razar/proprietary/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
-    vendor/hs/razar/proprietary/lib/libperfservicenative.so:system/lib/libperfservicenative.so \
-    vendor/hs/razar/proprietary/lib64/libperfservicenative.so:system/lib64/libperfservicenative.so \
-    vendor/hs/razar/proprietary/vendor/lib/libperfservicenative.so:system/vendor/lib/libperfservicenative.so \
     vendor/hs/razar/proprietary/lib/libaudiomtkdcremoval.so:system/lib/libaudiomtkdcremoval.so \
     vendor/hs/razar/proprietary/lib/mtk-ril.so:system/lib/mtk-ril.so \
     vendor/hs/razar/proprietary/lib64/mtk-ril.so:system/lib64/mtk-ril.so \
@@ -235,6 +232,8 @@ PRODUCT_COPY_FILES += \
     vendor/hs/razar/proprietary/lib64/libmtk_mmutils.so:system/lib64/libmtk_mmutils.so \
     vendor/hs/razar/proprietary/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
     vendor/hs/razar/proprietary/lib64/libaudiocompensationfilter.so:system/lib64/libaudiocompensationfilter.so \
+    vendor/hs/razar/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
+    vendor/hs/razar/proprietary/lib64/libaudiocustparam.so:system/lib64/libaudiocustparam.so \
     vendor/hs/razar/proprietary/lib/libHEVCdec_sa.ca7.android.so:system/lib/libHEVCdec_sa.ca7.android.so \
     vendor/hs/razar/proprietary/lib/libmmsdkservice.so:system/lib/libmmsdkservice.so \
     vendor/hs/razar/proprietary/lib64/libmmsdkservice.so:system/lib64/libmmsdkservice.so \
@@ -291,8 +290,6 @@ PRODUCT_COPY_FILES += \
     vendor/hs/razar/proprietary/lib/libn3d3a.so:system/lib/libn3d3a.so \
     vendor/hs/razar/proprietary/lib64/libn3d3a.so:system/lib64/libn3d3a.so \
     vendor/hs/razar/proprietary/lib/libClearMotionFW.so:system/lib/libClearMotionFW.so \
-    vendor/hs/razar/proprietary/lib/librrc.so:system/lib/librrc.so \
-    vendor/hs/razar/proprietary/lib64/librrc.so:system/lib64/librrc.so \
     vendor/hs/razar/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/hs/razar/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/hs/razar/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
