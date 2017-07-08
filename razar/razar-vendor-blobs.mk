@@ -175,8 +175,6 @@ PRODUCT_COPY_FILES += \
     vendor/hs/razar/proprietary/lib/libblisrc.so:system/lib/libblisrc.so \
     vendor/hs/razar/proprietary/lib64/libblisrc.so:system/lib64/libblisrc.so \
     vendor/hs/razar/proprietary/lib/libMtkOmxVorbisEnc.so:system/lib/libMtkOmxVorbisEnc.so \
-    vendor/hs/razar/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
-    vendor/hs/razar/proprietary/lib64/libcustom_nvram.so:system/lib64/libcustom_nvram.so \
     vendor/hs/razar/proprietary/lib/libMtkOmxRawDec.so:system/lib/libMtkOmxRawDec.so \
     vendor/hs/razar/proprietary/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
     vendor/hs/razar/proprietary/lib64/libJpgEncPipe.so:system/lib64/libJpgEncPipe.so \
@@ -194,8 +192,6 @@ PRODUCT_COPY_FILES += \
     vendor/hs/razar/proprietary/lib/libvp8enc_sa.ca7.so:system/lib/libvp8enc_sa.ca7.so \
     vendor/hs/razar/proprietary/lib/libmhalImageCodec.so:system/lib/libmhalImageCodec.so \
     vendor/hs/razar/proprietary/lib64/libmhalImageCodec.so:system/lib64/libmhalImageCodec.so \
-    vendor/hs/razar/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
-    vendor/hs/razar/proprietary/lib64/libaudiocustparam.so:system/lib64/libaudiocustparam.so \
     vendor/hs/razar/proprietary/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
     vendor/hs/razar/proprietary/lib64/libvcodec_utility.so:system/lib64/libvcodec_utility.so \
     vendor/hs/razar/proprietary/lib/libaed.so:system/lib/libaed.so \
@@ -276,8 +272,6 @@ PRODUCT_COPY_FILES += \
     vendor/hs/razar/proprietary/lib64/libBnMtkCodec.so:system/lib64/libBnMtkCodec.so \
     vendor/hs/razar/proprietary/lib/libmdfx.so:system/lib/libmdfx.so \
     vendor/hs/razar/proprietary/lib64/libmdfx.so:system/lib64/libmdfx.so \
-    vendor/hs/razar/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
-    vendor/hs/razar/proprietary/lib64/libaudiosetting.so:system/lib64/libaudiosetting.so \
     vendor/hs/razar/proprietary/lib/libnvramagentclient.so:system/lib/libnvramagentclient.so \
     vendor/hs/razar/proprietary/lib64/libnvramagentclient.so:system/lib64/libnvramagentclient.so \
     vendor/hs/razar/proprietary/lib/libpqservice.so:system/lib/libpqservice.so \
