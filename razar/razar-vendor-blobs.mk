@@ -196,8 +196,6 @@ PRODUCT_COPY_FILES += \
     vendor/hs/razar/proprietary/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
     vendor/hs/razar/proprietary/lib64/mtk-rilmd2.so:system/lib64/mtk-rilmd2.so \
     vendor/hs/razar/proprietary/lib/libMtkOmxApeDec.so:system/lib/libMtkOmxApeDec.so \
-    vendor/hs/razar/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
-    vendor/hs/razar/proprietary/lib64/hw/audio.a2dp.default.so:system/lib64/hw/audio.a2dp.default.so \
     vendor/hs/razar/proprietary/lib/hw/camera.mt6737t.so:system/lib/hw/camera.mt6737t.so \
     vendor/hs/razar/proprietary/lib64/hw/camera.mt6737t.so:system/lib64/hw/camera.mt6737t.so \
     vendor/hs/razar/proprietary/lib/hw/hwcomposer.mt6737t.so:system/lib/hw/hwcomposer.mt6737t.so \
