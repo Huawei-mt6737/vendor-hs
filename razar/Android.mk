@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-$(info copying DP Framework proprietary blobs)
+$(info copying SHARED proprietary blobs)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libdpframework
